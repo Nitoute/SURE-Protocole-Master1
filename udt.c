@@ -5,10 +5,7 @@
  * randomly dropping packets (with a configurable
  * probability PROB_LOSS)
  * Author: Francieli Boito, February 2022
- * This file was prepared for a teaching activity,
- * you CANNOT share it online (for instance, in
- * a forum or in a git repo) unless you receive
- * explicit authorization from the author.
+ * This file was prepared for a teaching activity.
  */
 /* DO NOT MODIFY THIS FILE!!!
  * If you find a bug, please notify the author
